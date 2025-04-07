@@ -3,7 +3,7 @@
 
 ## Lógica de la aplicación de consola
 
-
+```txt
 pokemon_battle/
 │
 ├── main.py                  # Punto de entrada del programa
@@ -26,3 +26,4 @@ pokemon_battle/
 └── utils/                   # Utilidades generales
     ├── constants.py         # Constantes como tipos o mensajes
     └── helpers.py           # Funciones auxiliares (validación, random, etc.)
+```
