@@ -1,0 +1,44 @@
+{
+  "name": "Cubone",
+  "pokedex": "104",
+  "type1": "ground",
+  "type2": null,
+  "hp": 50,
+  "attack": 50,
+  "defense": 95,
+  "special attack": 40,
+  "special defense": 50,
+  "speed": 35,
+  "abilities": [
+    "rock head",
+    "lightning rod",
+    "battle armor"
+  ],
+  "level_up_moves": {
+    "1": [
+      "growl",
+      "bone club"
+    ],
+    "10": [
+      "tail whip"
+    ],
+    "13": [
+      "headbutt"
+    ],
+    "18": [
+      "leer"
+    ],
+    "25": [
+      "focus energy"
+    ],
+    "31": [
+      "thrash"
+    ],
+    "38": [
+      "bonemerang"
+    ],
+    "43": [
+      "double-edge"
+    ]
+  }
+}

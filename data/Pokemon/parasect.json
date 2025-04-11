@@ -1,0 +1,38 @@
+{
+  "name": "Parasect",
+  "pokedex": "047",
+  "type1": "bug",
+  "type2": "grass",
+  "hp": 60,
+  "attack": 95,
+  "defense": 80,
+  "special attack": 60,
+  "special defense": 80,
+  "speed": 30,
+  "abilities": [
+    "effect spore",
+    "dry skin",
+    "damp"
+  ],
+  "level_up_moves": {
+    "1": [
+      "scratch",
+      "stun spore"
+    ],
+    "13": [
+      "stun spore"
+    ],
+    "20": [
+      "leech life"
+    ],
+    "30": [
+      "spore"
+    ],
+    "39": [
+      "slash"
+    ],
+    "48": [
+      "growth"
+    ]
+  }
+}

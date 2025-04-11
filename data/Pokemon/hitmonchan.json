@@ -1,0 +1,38 @@
+{
+  "name": "Hitmonchan",
+  "pokedex": "107",
+  "type1": "fighting",
+  "type2": null,
+  "hp": 50,
+  "attack": 105,
+  "defense": 79,
+  "special attack": 35,
+  "special defense": 110,
+  "speed": 76,
+  "abilities": [
+    "keen eye",
+    "iron fist",
+    "inner focus"
+  ],
+  "level_up_moves": {
+    "1": [
+      "comet punch",
+      "agility"
+    ],
+    "26": [
+      "fire punch"
+    ],
+    "31": [
+      "ice punch"
+    ],
+    "36": [
+      "thunder punch"
+    ],
+    "41": [
+      "mega punch"
+    ],
+    "46": [
+      "counter"
+    ]
+  }
+}

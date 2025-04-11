@@ -1,0 +1,40 @@
+{
+  "name": "Snorlax",
+  "pokedex": "143",
+  "type1": "normal",
+  "type2": null,
+  "hp": 160,
+  "attack": 110,
+  "defense": 65,
+  "special attack": 65,
+  "special defense": 110,
+  "speed": 30,
+  "abilities": [
+    "immunity",
+    "thick fat",
+    "gluttony"
+  ],
+  "level_up_moves": {
+    "1": [
+      "headbutt"
+    ],
+    "35": [
+      "amnesia"
+    ],
+    "41": [
+      "rest"
+    ],
+    "48": [
+      "body slam"
+    ],
+    "56": [
+      "harden"
+    ],
+    "64": [
+      "double-edge"
+    ],
+    "69": [
+      "hyper beam"
+    ]
+  }
+}

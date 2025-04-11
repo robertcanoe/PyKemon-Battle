@@ -1,0 +1,25 @@
+{
+  "name": "Clefable",
+  "pokedex": "036",
+  "type1": "normal",
+  "type2": null,
+  "hp": 95,
+  "attack": 70,
+  "defense": 73,
+  "special attack": 85,
+  "special defense": 90,
+  "speed": 60,
+  "abilities": [
+    "cute charm",
+    "magic guard",
+    "unaware"
+  ],
+  "level_up_moves": {
+    "1": [
+      "sing",
+      "double slap",
+      "minimize",
+      "metronome"
+    ]
+  }
+}

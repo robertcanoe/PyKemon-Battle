@@ -1,0 +1,22 @@
+{
+  "name": "Weedle",
+  "pokedex": "013",
+  "type1": "bug",
+  "type2": "poison",
+  "hp": 40,
+  "attack": 35,
+  "defense": 30,
+  "special attack": 20,
+  "special defense": 20,
+  "speed": 50,
+  "abilities": [
+    "shield dust",
+    "run away"
+  ],
+  "level_up_moves": {
+    "1": [
+      "poison sting",
+      "string shot"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Diglett",
+  "pokedex": "050",
+  "type1": "ground",
+  "type2": null,
+  "hp": 10,
+  "attack": 55,
+  "defense": 25,
+  "special attack": 35,
+  "special defense": 45,
+  "speed": 95,
+  "abilities": [
+    "sand veil",
+    "arena trap",
+    "sand force"
+  ],
+  "level_up_moves": {
+    "1": [
+      "scratch"
+    ],
+    "15": [
+      "growl"
+    ],
+    "19": [
+      "dig"
+    ],
+    "24": [
+      "sand attack"
+    ],
+    "31": [
+      "slash"
+    ],
+    "40": [
+      "earthquake"
+    ]
+  }
+}

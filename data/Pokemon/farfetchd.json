@@ -1,0 +1,38 @@
+{
+  "name": "Farfetch'd",
+  "pokedex": "083",
+  "type1": "normal",
+  "type2": "flying",
+  "hp": 52,
+  "attack": 65,
+  "defense": 55,
+  "special attack": 58,
+  "special defense": 62,
+  "speed": 60,
+  "abilities": [
+    "keen eye",
+    "inner focus",
+    "defiant"
+  ],
+  "level_up_moves": {
+    "1": [
+      "peck",
+      "sand attack"
+    ],
+    "7": [
+      "leer"
+    ],
+    "15": [
+      "fury attack"
+    ],
+    "23": [
+      "swords dance"
+    ],
+    "31": [
+      "agility"
+    ],
+    "39": [
+      "slash"
+    ]
+  }
+}

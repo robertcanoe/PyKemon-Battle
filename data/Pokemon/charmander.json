@@ -1,0 +1,40 @@
+{
+  "name": "Charmander",
+  "pokedex": "004",
+  "type1": "fire",
+  "type2": null,
+  "hp": 39,
+  "attack": 52,
+  "defense": 43,
+  "special attack": 60,
+  "special defense": 50,
+  "speed": 65,
+  "abilities": [
+    "blaze",
+    "solar power"
+  ],
+  "level_up_moves": {
+    "1": [
+      "scratch",
+      "growl"
+    ],
+    "9": [
+      "ember"
+    ],
+    "15": [
+      "leer"
+    ],
+    "22": [
+      "rage"
+    ],
+    "30": [
+      "slash"
+    ],
+    "38": [
+      "flamethrower"
+    ],
+    "46": [
+      "fire spin"
+    ]
+  }
+}

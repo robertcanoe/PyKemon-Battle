@@ -1,0 +1,38 @@
+{
+  "name": "Lickitung",
+  "pokedex": "108",
+  "type1": "normal",
+  "type2": null,
+  "hp": 90,
+  "attack": 55,
+  "defense": 75,
+  "special attack": 60,
+  "special defense": 75,
+  "speed": 30,
+  "abilities": [
+    "own tempo",
+    "oblivious",
+    "cloud nine"
+  ],
+  "level_up_moves": {
+    "1": [
+      "wrap",
+      "supersonic"
+    ],
+    "7": [
+      "stomp"
+    ],
+    "15": [
+      "disable"
+    ],
+    "23": [
+      "defense curl"
+    ],
+    "31": [
+      "slam"
+    ],
+    "39": [
+      "screech"
+    ]
+  }
+}

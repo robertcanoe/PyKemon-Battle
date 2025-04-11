@@ -1,0 +1,41 @@
+{
+  "name": "Onix",
+  "pokedex": "095",
+  "type1": "rock",
+  "type2": "ground",
+  "hp": 35,
+  "attack": 45,
+  "defense": 160,
+  "special attack": 30,
+  "special defense": 45,
+  "speed": 70,
+  "abilities": [
+    "rock head",
+    "sturdy",
+    "weak armor"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "screech"
+    ],
+    "15": [
+      "bind"
+    ],
+    "19": [
+      "rock throw"
+    ],
+    "23": [
+      "harden"
+    ],
+    "27": [
+      "rage"
+    ],
+    "33": [
+      "slam"
+    ],
+    "43": [
+      "dig"
+    ]
+  }
+}

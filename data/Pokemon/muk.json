@@ -1,0 +1,42 @@
+{
+  "name": "Muk",
+  "pokedex": "089",
+  "type1": "poison",
+  "type2": null,
+  "hp": 105,
+  "attack": 105,
+  "defense": 75,
+  "special attack": 65,
+  "special defense": 100,
+  "speed": 50,
+  "abilities": [
+    "stench",
+    "sticky hold",
+    "poison touch"
+  ],
+  "level_up_moves": {
+    "1": [
+      "pound",
+      "poison gas",
+      "harden"
+    ],
+    "30": [
+      "harden"
+    ],
+    "33": [
+      "sludge"
+    ],
+    "37": [
+      "disable"
+    ],
+    "45": [
+      "acid armor"
+    ],
+    "53": [
+      "screech"
+    ],
+    "60": [
+      "minimize"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Drowzee",
+  "pokedex": "096",
+  "type1": "psychic",
+  "type2": null,
+  "hp": 60,
+  "attack": 48,
+  "defense": 45,
+  "special attack": 43,
+  "special defense": 90,
+  "speed": 42,
+  "abilities": [
+    "insomnia",
+    "forewarn",
+    "inner focus"
+  ],
+  "level_up_moves": {
+    "1": [
+      "pound",
+      "hypnosis"
+    ],
+    "12": [
+      "disable"
+    ],
+    "17": [
+      "confusion"
+    ],
+    "24": [
+      "headbutt"
+    ],
+    "29": [
+      "poison gas"
+    ],
+    "32": [
+      "psychic"
+    ],
+    "37": [
+      "meditate"
+    ]
+  }
+}

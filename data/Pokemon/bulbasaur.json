@@ -1,0 +1,43 @@
+{
+  "name": "Bulbasaur",
+  "pokedex": "001",
+  "type1": "grass",
+  "type2": "poison",
+  "hp": 45,
+  "attack": 49,
+  "defense": 49,
+  "special attack": 65,
+  "special defense": 65,
+  "speed": 45,
+  "abilities": [
+    "overgrow",
+    "chlorophyll"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "growl"
+    ],
+    "7": [
+      "leech seed"
+    ],
+    "13": [
+      "vine whip"
+    ],
+    "20": [
+      "poison powder"
+    ],
+    "27": [
+      "razor leaf"
+    ],
+    "34": [
+      "growth"
+    ],
+    "41": [
+      "sleep powder"
+    ],
+    "48": [
+      "solar beam"
+    ]
+  }
+}

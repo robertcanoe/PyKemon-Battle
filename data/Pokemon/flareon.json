@@ -1,0 +1,44 @@
+{
+  "name": "Flareon",
+  "pokedex": "136",
+  "type1": "fire",
+  "type2": null,
+  "hp": 65,
+  "attack": 130,
+  "defense": 60,
+  "special attack": 95,
+  "special defense": 110,
+  "speed": 65,
+  "abilities": [
+    "flash fire",
+    "guts"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "tail whip",
+      "ember"
+    ],
+    "8": [
+      "sand attack"
+    ],
+    "16": [
+      "ember"
+    ],
+    "23": [
+      "quick attack"
+    ],
+    "30": [
+      "bite"
+    ],
+    "36": [
+      "fire spin"
+    ],
+    "42": [
+      "smog"
+    ],
+    "47": [
+      "flamethrower"
+    ]
+  }
+}

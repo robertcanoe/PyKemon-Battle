@@ -1,0 +1,41 @@
+{
+  "name": "Clefairy",
+  "pokedex": "035",
+  "type1": "normal",
+  "type2": null,
+  "hp": 70,
+  "attack": 45,
+  "defense": 48,
+  "special attack": 60,
+  "special defense": 65,
+  "speed": 35,
+  "abilities": [
+    "cute charm",
+    "magic guard",
+    "friend guard"
+  ],
+  "level_up_moves": {
+    "1": [
+      "pound",
+      "growl"
+    ],
+    "13": [
+      "sing"
+    ],
+    "18": [
+      "double slap"
+    ],
+    "24": [
+      "minimize"
+    ],
+    "31": [
+      "metronome"
+    ],
+    "39": [
+      "defense curl"
+    ],
+    "48": [
+      "light screen"
+    ]
+  }
+}

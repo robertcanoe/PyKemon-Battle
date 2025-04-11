@@ -1,0 +1,41 @@
+{
+  "name": "Wartortle",
+  "pokedex": "008",
+  "type1": "water",
+  "type2": null,
+  "hp": 59,
+  "attack": 63,
+  "defense": 80,
+  "special attack": 65,
+  "special defense": 80,
+  "speed": 58,
+  "abilities": [
+    "torrent",
+    "rain dish"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "tail whip",
+      "bubble"
+    ],
+    "8": [
+      "bubble"
+    ],
+    "15": [
+      "water gun"
+    ],
+    "24": [
+      "bite"
+    ],
+    "31": [
+      "withdraw"
+    ],
+    "39": [
+      "skull bash"
+    ],
+    "47": [
+      "hydro pump"
+    ]
+  }
+}

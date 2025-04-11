@@ -1,0 +1,39 @@
+{
+  "name": "Beedrill",
+  "pokedex": "015",
+  "type1": "bug",
+  "type2": "poison",
+  "hp": 65,
+  "attack": 80,
+  "defense": 40,
+  "special attack": 45,
+  "special defense": 80,
+  "speed": 75,
+  "abilities": [
+    "swarm",
+    "sniper"
+  ],
+  "level_up_moves": {
+    "1": [
+      "fury attack"
+    ],
+    "10": [
+      "fury attack"
+    ],
+    "15": [
+      "focus energy"
+    ],
+    "20": [
+      "twineedle"
+    ],
+    "25": [
+      "rage"
+    ],
+    "30": [
+      "pin missile"
+    ],
+    "35": [
+      "agility"
+    ]
+  }
+}

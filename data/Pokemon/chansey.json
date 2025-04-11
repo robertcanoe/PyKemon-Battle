@@ -1,0 +1,44 @@
+{
+  "name": "Chansey",
+  "pokedex": "113",
+  "type1": "normal",
+  "type2": null,
+  "hp": 250,
+  "attack": 5,
+  "defense": 5,
+  "special attack": 35,
+  "special defense": 105,
+  "speed": 50,
+  "abilities": [
+    "natural cure",
+    "serene grace",
+    "healer"
+  ],
+  "level_up_moves": {
+    "1": [
+      "pound",
+      "growl"
+    ],
+    "30": [
+      "tail whip"
+    ],
+    "38": [
+      "double slap"
+    ],
+    "44": [
+      "sing"
+    ],
+    "48": [
+      "minimize"
+    ],
+    "54": [
+      "defense curl"
+    ],
+    "60": [
+      "light screen"
+    ],
+    "65": [
+      "double-edge"
+    ]
+  }
+}

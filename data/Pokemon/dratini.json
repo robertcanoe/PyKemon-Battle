@@ -1,0 +1,37 @@
+{
+  "name": "Dratini",
+  "pokedex": "147",
+  "type1": "dragon",
+  "type2": null,
+  "hp": 41,
+  "attack": 64,
+  "defense": 45,
+  "special attack": 50,
+  "special defense": 50,
+  "speed": 50,
+  "abilities": [
+    "shed skin",
+    "marvel scale"
+  ],
+  "level_up_moves": {
+    "1": [
+      "wrap",
+      "leer"
+    ],
+    "10": [
+      "thunder wave"
+    ],
+    "20": [
+      "agility"
+    ],
+    "30": [
+      "slam"
+    ],
+    "40": [
+      "dragon rage"
+    ],
+    "50": [
+      "hyper beam"
+    ]
+  }
+}

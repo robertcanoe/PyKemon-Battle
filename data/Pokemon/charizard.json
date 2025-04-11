@@ -1,0 +1,42 @@
+{
+  "name": "Charizard",
+  "pokedex": "006",
+  "type1": "fire",
+  "type2": "flying",
+  "hp": 78,
+  "attack": 84,
+  "defense": 78,
+  "special attack": 109,
+  "special defense": 85,
+  "speed": 100,
+  "abilities": [
+    "blaze",
+    "solar power"
+  ],
+  "level_up_moves": {
+    "1": [
+      "scratch",
+      "growl",
+      "ember",
+      "leer"
+    ],
+    "9": [
+      "ember"
+    ],
+    "15": [
+      "leer"
+    ],
+    "24": [
+      "rage"
+    ],
+    "36": [
+      "slash"
+    ],
+    "46": [
+      "flamethrower"
+    ],
+    "55": [
+      "fire spin"
+    ]
+  }
+}

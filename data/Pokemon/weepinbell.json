@@ -1,0 +1,43 @@
+{
+  "name": "Weepinbell",
+  "pokedex": "070",
+  "type1": "grass",
+  "type2": "poison",
+  "hp": 65,
+  "attack": 90,
+  "defense": 50,
+  "special attack": 85,
+  "special defense": 45,
+  "speed": 55,
+  "abilities": [
+    "chlorophyll",
+    "gluttony"
+  ],
+  "level_up_moves": {
+    "1": [
+      "vine whip",
+      "growth"
+    ],
+    "13": [
+      "growth"
+    ],
+    "15": [
+      "wrap"
+    ],
+    "18": [
+      "poison powder"
+    ],
+    "23": [
+      "stun spore"
+    ],
+    "29": [
+      "acid"
+    ],
+    "38": [
+      "razor leaf"
+    ],
+    "49": [
+      "slam"
+    ]
+  }
+}

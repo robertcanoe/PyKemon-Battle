@@ -1,0 +1,37 @@
+{
+  "name": "Machop",
+  "pokedex": "066",
+  "type1": "fighting",
+  "type2": null,
+  "hp": 70,
+  "attack": 80,
+  "defense": 50,
+  "special attack": 35,
+  "special defense": 35,
+  "speed": 35,
+  "abilities": [
+    "guts",
+    "no guard",
+    "steadfast"
+  ],
+  "level_up_moves": {
+    "1": [
+      "karate chop"
+    ],
+    "20": [
+      "low kick"
+    ],
+    "25": [
+      "leer"
+    ],
+    "32": [
+      "focus energy"
+    ],
+    "39": [
+      "seismic toss"
+    ],
+    "46": [
+      "submission"
+    ]
+  }
+}

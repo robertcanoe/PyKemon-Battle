@@ -1,0 +1,39 @@
+{
+  "name": "Dragonite",
+  "pokedex": "149",
+  "type1": "dragon",
+  "type2": "flying",
+  "hp": 91,
+  "attack": 134,
+  "defense": 95,
+  "special attack": 100,
+  "special defense": 100,
+  "speed": 80,
+  "abilities": [
+    "inner focus",
+    "multiscale"
+  ],
+  "level_up_moves": {
+    "1": [
+      "wrap",
+      "leer",
+      "thunder wave",
+      "agility"
+    ],
+    "10": [
+      "thunder wave"
+    ],
+    "20": [
+      "agility"
+    ],
+    "35": [
+      "slam"
+    ],
+    "45": [
+      "dragon rage"
+    ],
+    "55": [
+      "hyper beam"
+    ]
+  }
+}

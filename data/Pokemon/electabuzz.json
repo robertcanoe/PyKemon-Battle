@@ -1,0 +1,37 @@
+{
+  "name": "Electabuzz",
+  "pokedex": "125",
+  "type1": "electric",
+  "type2": null,
+  "hp": 65,
+  "attack": 83,
+  "defense": 57,
+  "special attack": 95,
+  "special defense": 85,
+  "speed": 105,
+  "abilities": [
+    "static",
+    "vital spirit"
+  ],
+  "level_up_moves": {
+    "1": [
+      "quick attack",
+      "leer"
+    ],
+    "34": [
+      "thunder shock"
+    ],
+    "37": [
+      "screech"
+    ],
+    "43": [
+      "thunder punch"
+    ],
+    "49": [
+      "light screen"
+    ],
+    "54": [
+      "thunder"
+    ]
+  }
+}

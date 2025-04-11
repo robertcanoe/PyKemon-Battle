@@ -1,0 +1,40 @@
+{
+  "name": "Magnemite",
+  "pokedex": "081",
+  "type1": "electric",
+  "type2": null,
+  "hp": 25,
+  "attack": 35,
+  "defense": 70,
+  "special attack": 95,
+  "special defense": 55,
+  "speed": 45,
+  "abilities": [
+    "magnet pull",
+    "sturdy",
+    "analytic"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle"
+    ],
+    "21": [
+      "sonic boom"
+    ],
+    "25": [
+      "thunder shock"
+    ],
+    "29": [
+      "supersonic"
+    ],
+    "35": [
+      "thunder wave"
+    ],
+    "41": [
+      "swift"
+    ],
+    "47": [
+      "screech"
+    ]
+  }
+}

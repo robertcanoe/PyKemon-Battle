@@ -1,0 +1,40 @@
+{
+  "name": "Pinsir",
+  "pokedex": "127",
+  "type1": "bug",
+  "type2": null,
+  "hp": 65,
+  "attack": 125,
+  "defense": 100,
+  "special attack": 55,
+  "special defense": 70,
+  "speed": 85,
+  "abilities": [
+    "hyper cutter",
+    "mold breaker",
+    "moxie"
+  ],
+  "level_up_moves": {
+    "1": [
+      "vice grip"
+    ],
+    "25": [
+      "seismic toss"
+    ],
+    "30": [
+      "guillotine"
+    ],
+    "36": [
+      "focus energy"
+    ],
+    "43": [
+      "harden"
+    ],
+    "49": [
+      "slash"
+    ],
+    "54": [
+      "swords dance"
+    ]
+  }
+}

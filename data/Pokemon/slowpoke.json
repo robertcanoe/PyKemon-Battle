@@ -1,0 +1,41 @@
+{
+  "name": "Slowpoke",
+  "pokedex": "079",
+  "type1": "water",
+  "type2": "psychic",
+  "hp": 90,
+  "attack": 65,
+  "defense": 65,
+  "special attack": 40,
+  "special defense": 40,
+  "speed": 15,
+  "abilities": [
+    "oblivious",
+    "own tempo",
+    "regenerator"
+  ],
+  "level_up_moves": {
+    "1": [
+      "curse",
+      "tackle"
+    ],
+    "18": [
+      "water gun"
+    ],
+    "22": [
+      "growl"
+    ],
+    "27": [
+      "headbutt"
+    ],
+    "33": [
+      "disable"
+    ],
+    "40": [
+      "confusion"
+    ],
+    "48": [
+      "amnesia"
+    ]
+  }
+}

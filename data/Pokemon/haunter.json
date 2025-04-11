@@ -1,0 +1,30 @@
+{
+  "name": "Haunter",
+  "pokedex": "093",
+  "type1": "ghost",
+  "type2": "poison",
+  "hp": 45,
+  "attack": 50,
+  "defense": 45,
+  "special attack": 115,
+  "special defense": 55,
+  "speed": 95,
+  "abilities": [
+    "levitate"
+  ],
+  "level_up_moves": {
+    "1": [
+      "lick",
+      "hypnosis"
+    ],
+    "29": [
+      "night shade"
+    ],
+    "38": [
+      "confuse ray"
+    ],
+    "47": [
+      "dream eater"
+    ]
+  }
+}

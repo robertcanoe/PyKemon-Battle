@@ -1,0 +1,40 @@
+{
+  "name": "Squirtle",
+  "pokedex": "007",
+  "type1": "water",
+  "type2": null,
+  "hp": 44,
+  "attack": 48,
+  "defense": 65,
+  "special attack": 50,
+  "special defense": 64,
+  "speed": 43,
+  "abilities": [
+    "torrent",
+    "rain dish"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "tail whip"
+    ],
+    "8": [
+      "bubble"
+    ],
+    "15": [
+      "water gun"
+    ],
+    "22": [
+      "bite"
+    ],
+    "28": [
+      "withdraw"
+    ],
+    "35": [
+      "skull bash"
+    ],
+    "42": [
+      "hydro pump"
+    ]
+  }
+}

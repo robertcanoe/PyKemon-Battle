@@ -1,0 +1,45 @@
+{
+  "name": "Marowak",
+  "pokedex": "105",
+  "type1": "ground",
+  "type2": null,
+  "hp": 60,
+  "attack": 80,
+  "defense": 110,
+  "special attack": 50,
+  "special defense": 80,
+  "speed": 45,
+  "abilities": [
+    "rock head",
+    "lightning rod",
+    "battle armor"
+  ],
+  "level_up_moves": {
+    "1": [
+      "growl",
+      "bone club",
+      "tail whip"
+    ],
+    "10": [
+      "tail whip"
+    ],
+    "13": [
+      "headbutt"
+    ],
+    "18": [
+      "leer"
+    ],
+    "25": [
+      "focus energy"
+    ],
+    "33": [
+      "thrash"
+    ],
+    "41": [
+      "bonemerang"
+    ],
+    "48": [
+      "double-edge"
+    ]
+  }
+}

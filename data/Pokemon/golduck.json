@@ -1,0 +1,38 @@
+{
+  "name": "Golduck",
+  "pokedex": "055",
+  "type1": "water",
+  "type2": null,
+  "hp": 80,
+  "attack": 82,
+  "defense": 78,
+  "special attack": 95,
+  "special defense": 80,
+  "speed": 85,
+  "abilities": [
+    "damp",
+    "cloud nine",
+    "swift swim"
+  ],
+  "level_up_moves": {
+    "1": [
+      "scratch",
+      "tail whip"
+    ],
+    "28": [
+      "tail whip"
+    ],
+    "31": [
+      "disable"
+    ],
+    "39": [
+      "confusion"
+    ],
+    "50": [
+      "fury swipes"
+    ],
+    "59": [
+      "hydro pump"
+    ]
+  }
+}

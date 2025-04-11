@@ -1,0 +1,40 @@
+{
+  "name": "Exeggcute",
+  "pokedex": "102",
+  "type1": "grass",
+  "type2": "psychic",
+  "hp": 60,
+  "attack": 40,
+  "defense": 80,
+  "special attack": 60,
+  "special defense": 45,
+  "speed": 40,
+  "abilities": [
+    "chlorophyll",
+    "harvest"
+  ],
+  "level_up_moves": {
+    "1": [
+      "barrage",
+      "hypnosis"
+    ],
+    "25": [
+      "reflect"
+    ],
+    "28": [
+      "leech seed"
+    ],
+    "32": [
+      "stun spore"
+    ],
+    "37": [
+      "poison powder"
+    ],
+    "42": [
+      "solar beam"
+    ],
+    "48": [
+      "sleep powder"
+    ]
+  }
+}

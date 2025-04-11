@@ -1,0 +1,37 @@
+{
+  "name": "Psyduck",
+  "pokedex": "054",
+  "type1": "water",
+  "type2": null,
+  "hp": 50,
+  "attack": 52,
+  "defense": 48,
+  "special attack": 65,
+  "special defense": 50,
+  "speed": 55,
+  "abilities": [
+    "damp",
+    "cloud nine",
+    "swift swim"
+  ],
+  "level_up_moves": {
+    "1": [
+      "scratch"
+    ],
+    "28": [
+      "tail whip"
+    ],
+    "31": [
+      "disable"
+    ],
+    "36": [
+      "confusion"
+    ],
+    "43": [
+      "fury swipes"
+    ],
+    "50": [
+      "hydro pump"
+    ]
+  }
+}

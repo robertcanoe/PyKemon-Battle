@@ -1,0 +1,40 @@
+{
+  "name": "Rhyhorn",
+  "pokedex": "111",
+  "type1": "ground",
+  "type2": "rock",
+  "hp": 80,
+  "attack": 85,
+  "defense": 95,
+  "special attack": 30,
+  "special defense": 30,
+  "speed": 25,
+  "abilities": [
+    "lightning rod",
+    "rock head",
+    "reckless"
+  ],
+  "level_up_moves": {
+    "1": [
+      "horn attack"
+    ],
+    "30": [
+      "stomp"
+    ],
+    "35": [
+      "tail whip"
+    ],
+    "40": [
+      "fury attack"
+    ],
+    "45": [
+      "horn drill"
+    ],
+    "50": [
+      "leer"
+    ],
+    "55": [
+      "take down"
+    ]
+  }
+}

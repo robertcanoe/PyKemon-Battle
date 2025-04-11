@@ -1,0 +1,31 @@
+{
+  "name": "Gengar",
+  "pokedex": "094",
+  "type1": "ghost",
+  "type2": "poison",
+  "hp": 60,
+  "attack": 65,
+  "defense": 60,
+  "special attack": 130,
+  "special defense": 75,
+  "speed": 110,
+  "abilities": [
+    "cursed body"
+  ],
+  "level_up_moves": {
+    "1": [
+      "lick",
+      "hypnosis",
+      "night shade"
+    ],
+    "29": [
+      "night shade"
+    ],
+    "38": [
+      "confuse ray"
+    ],
+    "47": [
+      "dream eater"
+    ]
+  }
+}

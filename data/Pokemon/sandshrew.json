@@ -1,0 +1,36 @@
+{
+  "name": "Sandshrew",
+  "pokedex": "027",
+  "type1": "ground",
+  "type2": null,
+  "hp": 50,
+  "attack": 75,
+  "defense": 85,
+  "special attack": 20,
+  "special defense": 30,
+  "speed": 40,
+  "abilities": [
+    "sand veil",
+    "sand rush"
+  ],
+  "level_up_moves": {
+    "1": [
+      "scratch"
+    ],
+    "10": [
+      "sand attack"
+    ],
+    "17": [
+      "poison sting"
+    ],
+    "24": [
+      "slash"
+    ],
+    "31": [
+      "swift"
+    ],
+    "38": [
+      "fury swipes"
+    ]
+  }
+}

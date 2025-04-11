@@ -1,0 +1,38 @@
+{
+  "name": "Dugtrio",
+  "pokedex": "051",
+  "type1": "ground",
+  "type2": null,
+  "hp": 35,
+  "attack": 80,
+  "defense": 50,
+  "special attack": 50,
+  "special defense": 70,
+  "speed": 120,
+  "abilities": [
+    "sand veil",
+    "arena trap",
+    "sand force"
+  ],
+  "level_up_moves": {
+    "1": [
+      "scratch",
+      "growl"
+    ],
+    "15": [
+      "growl"
+    ],
+    "19": [
+      "dig"
+    ],
+    "24": [
+      "sand attack"
+    ],
+    "35": [
+      "slash"
+    ],
+    "47": [
+      "earthquake"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Lapras",
+  "pokedex": "131",
+  "type1": "water",
+  "type2": "ice",
+  "hp": 130,
+  "attack": 85,
+  "defense": 80,
+  "special attack": 85,
+  "special defense": 95,
+  "speed": 60,
+  "abilities": [
+    "water absorb",
+    "shell armor",
+    "hydration"
+  ],
+  "level_up_moves": {
+    "1": [
+      "water gun",
+      "growl"
+    ],
+    "16": [
+      "sing"
+    ],
+    "20": [
+      "mist"
+    ],
+    "25": [
+      "body slam"
+    ],
+    "31": [
+      "confuse ray"
+    ],
+    "38": [
+      "ice beam"
+    ],
+    "46": [
+      "hydro pump"
+    ]
+  }
+}

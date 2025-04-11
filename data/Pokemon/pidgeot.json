@@ -1,0 +1,42 @@
+{
+  "name": "Pidgeot",
+  "pokedex": "018",
+  "type1": "normal",
+  "type2": "flying",
+  "hp": 83,
+  "attack": 80,
+  "defense": 75,
+  "special attack": 70,
+  "special defense": 70,
+  "speed": 91,
+  "abilities": [
+    "keen eye",
+    "tangled feet",
+    "big pecks"
+  ],
+  "level_up_moves": {
+    "1": [
+      "gust",
+      "sand attack",
+      "quick attack"
+    ],
+    "5": [
+      "sand attack"
+    ],
+    "12": [
+      "quick attack"
+    ],
+    "21": [
+      "whirlwind"
+    ],
+    "31": [
+      "wing attack"
+    ],
+    "44": [
+      "agility"
+    ],
+    "54": [
+      "mirror move"
+    ]
+  }
+}

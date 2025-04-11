@@ -1,0 +1,40 @@
+{
+  "name": "Tentacool",
+  "pokedex": "072",
+  "type1": "water",
+  "type2": "poison",
+  "hp": 40,
+  "attack": 40,
+  "defense": 35,
+  "special attack": 50,
+  "special defense": 100,
+  "speed": 70,
+  "abilities": [
+    "clear body",
+    "liquid ooze",
+    "rain dish"
+  ],
+  "level_up_moves": {
+    "1": [
+      "poison sting"
+    ],
+    "13": [
+      "supersonic"
+    ],
+    "18": [
+      "acid"
+    ],
+    "25": [
+      "bubble beam"
+    ],
+    "33": [
+      "wrap"
+    ],
+    "40": [
+      "hydro pump"
+    ],
+    "48": [
+      "barrier"
+    ]
+  }
+}

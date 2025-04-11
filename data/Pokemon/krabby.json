@@ -1,0 +1,37 @@
+{
+  "name": "Krabby",
+  "pokedex": "098",
+  "type1": "water",
+  "type2": null,
+  "hp": 30,
+  "attack": 105,
+  "defense": 90,
+  "special attack": 25,
+  "special defense": 25,
+  "speed": 50,
+  "abilities": [
+    "hyper cutter",
+    "shell armor",
+    "sheer force"
+  ],
+  "level_up_moves": {
+    "1": [
+      "bubble"
+    ],
+    "20": [
+      "vice grip"
+    ],
+    "25": [
+      "guillotine"
+    ],
+    "30": [
+      "stomp"
+    ],
+    "35": [
+      "crabhammer"
+    ],
+    "40": [
+      "harden"
+    ]
+  }
+}

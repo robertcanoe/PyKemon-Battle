@@ -1,0 +1,41 @@
+{
+  "name": "Charmeleon",
+  "pokedex": "005",
+  "type1": "fire",
+  "type2": null,
+  "hp": 58,
+  "attack": 64,
+  "defense": 58,
+  "special attack": 80,
+  "special defense": 65,
+  "speed": 80,
+  "abilities": [
+    "blaze",
+    "solar power"
+  ],
+  "level_up_moves": {
+    "1": [
+      "scratch",
+      "growl",
+      "ember"
+    ],
+    "9": [
+      "ember"
+    ],
+    "15": [
+      "leer"
+    ],
+    "24": [
+      "rage"
+    ],
+    "33": [
+      "slash"
+    ],
+    "42": [
+      "flamethrower"
+    ],
+    "56": [
+      "fire spin"
+    ]
+  }
+}

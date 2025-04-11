@@ -1,0 +1,37 @@
+{
+  "name": "Horsea",
+  "pokedex": "116",
+  "type1": "water",
+  "type2": null,
+  "hp": 30,
+  "attack": 40,
+  "defense": 70,
+  "special attack": 70,
+  "special defense": 25,
+  "speed": 60,
+  "abilities": [
+    "swift swim",
+    "sniper",
+    "damp"
+  ],
+  "level_up_moves": {
+    "1": [
+      "bubble"
+    ],
+    "19": [
+      "smokescreen"
+    ],
+    "24": [
+      "leer"
+    ],
+    "30": [
+      "water gun"
+    ],
+    "37": [
+      "agility"
+    ],
+    "45": [
+      "hydro pump"
+    ]
+  }
+}

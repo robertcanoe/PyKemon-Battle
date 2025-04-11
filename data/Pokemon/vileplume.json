@@ -1,0 +1,24 @@
+{
+  "name": "Vileplume",
+  "pokedex": "045",
+  "type1": "grass",
+  "type2": "poison",
+  "hp": 75,
+  "attack": 80,
+  "defense": 85,
+  "special attack": 100,
+  "special defense": 90,
+  "speed": 50,
+  "abilities": [
+    "chlorophyll",
+    "effect spore"
+  ],
+  "level_up_moves": {
+    "1": [
+      "absorb",
+      "poison powder",
+      "stun spore",
+      "sleep powder"
+    ]
+  }
+}

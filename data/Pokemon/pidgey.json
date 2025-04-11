@@ -1,0 +1,40 @@
+{
+  "name": "Pidgey",
+  "pokedex": "016",
+  "type1": "normal",
+  "type2": "flying",
+  "hp": 40,
+  "attack": 45,
+  "defense": 40,
+  "special attack": 35,
+  "special defense": 35,
+  "speed": 56,
+  "abilities": [
+    "keen eye",
+    "tangled feet",
+    "big pecks"
+  ],
+  "level_up_moves": {
+    "1": [
+      "gust"
+    ],
+    "5": [
+      "sand attack"
+    ],
+    "12": [
+      "quick attack"
+    ],
+    "19": [
+      "whirlwind"
+    ],
+    "28": [
+      "wing attack"
+    ],
+    "36": [
+      "agility"
+    ],
+    "44": [
+      "mirror move"
+    ]
+  }
+}

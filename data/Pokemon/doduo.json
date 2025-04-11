@@ -1,0 +1,40 @@
+{
+  "name": "Doduo",
+  "pokedex": "084",
+  "type1": "normal",
+  "type2": "flying",
+  "hp": 35,
+  "attack": 85,
+  "defense": 45,
+  "special attack": 35,
+  "special defense": 35,
+  "speed": 75,
+  "abilities": [
+    "run away",
+    "early bird",
+    "tangled feet"
+  ],
+  "level_up_moves": {
+    "1": [
+      "peck"
+    ],
+    "20": [
+      "growl"
+    ],
+    "24": [
+      "fury attack"
+    ],
+    "30": [
+      "drill peck"
+    ],
+    "36": [
+      "rage"
+    ],
+    "40": [
+      "tri attack"
+    ],
+    "44": [
+      "agility"
+    ]
+  }
+}

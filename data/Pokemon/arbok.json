@@ -1,0 +1,39 @@
+{
+  "name": "Arbok",
+  "pokedex": "024",
+  "type1": "poison",
+  "type2": null,
+  "hp": 60,
+  "attack": 85,
+  "defense": 69,
+  "special attack": 65,
+  "special defense": 79,
+  "speed": 80,
+  "abilities": [
+    "intimidate",
+    "shed skin",
+    "unnerve"
+  ],
+  "level_up_moves": {
+    "1": [
+      "wrap",
+      "leer",
+      "poison sting"
+    ],
+    "10": [
+      "poison sting"
+    ],
+    "17": [
+      "bite"
+    ],
+    "27": [
+      "glare"
+    ],
+    "36": [
+      "screech"
+    ],
+    "47": [
+      "acid"
+    ]
+  }
+}

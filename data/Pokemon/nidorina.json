@@ -1,0 +1,42 @@
+{
+  "name": "Nidorina",
+  "pokedex": "030",
+  "type1": "poison",
+  "type2": null,
+  "hp": 70,
+  "attack": 62,
+  "defense": 67,
+  "special attack": 55,
+  "special defense": 55,
+  "speed": 56,
+  "abilities": [
+    "poison point",
+    "rivalry",
+    "hustle"
+  ],
+  "level_up_moves": {
+    "1": [
+      "growl",
+      "tackle",
+      "scratch"
+    ],
+    "8": [
+      "scratch"
+    ],
+    "14": [
+      "poison sting"
+    ],
+    "23": [
+      "tail whip"
+    ],
+    "32": [
+      "bite"
+    ],
+    "41": [
+      "fury swipes"
+    ],
+    "50": [
+      "double kick"
+    ]
+  }
+}

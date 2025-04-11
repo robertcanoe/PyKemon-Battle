@@ -1,0 +1,30 @@
+{
+  "name": "Gastly",
+  "pokedex": "092",
+  "type1": "ghost",
+  "type2": "poison",
+  "hp": 30,
+  "attack": 35,
+  "defense": 30,
+  "special attack": 100,
+  "special defense": 35,
+  "speed": 80,
+  "abilities": [
+    "levitate"
+  ],
+  "level_up_moves": {
+    "1": [
+      "lick",
+      "hypnosis"
+    ],
+    "27": [
+      "night shade"
+    ],
+    "35": [
+      "confuse ray"
+    ],
+    "43": [
+      "dream eater"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Poliwhirl",
+  "pokedex": "061",
+  "type1": "water",
+  "type2": null,
+  "hp": 65,
+  "attack": 65,
+  "defense": 65,
+  "special attack": 50,
+  "special defense": 50,
+  "speed": 90,
+  "abilities": [
+    "water absorb",
+    "damp",
+    "swift swim"
+  ],
+  "level_up_moves": {
+    "1": [
+      "bubble",
+      "hypnosis"
+    ],
+    "19": [
+      "hypnosis"
+    ],
+    "26": [
+      "water gun"
+    ],
+    "33": [
+      "double slap"
+    ],
+    "41": [
+      "body slam"
+    ],
+    "49": [
+      "amnesia"
+    ]
+  }
+}

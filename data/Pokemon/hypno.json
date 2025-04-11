@@ -1,0 +1,42 @@
+{
+  "name": "Hypno",
+  "pokedex": "097",
+  "type1": "psychic",
+  "type2": null,
+  "hp": 85,
+  "attack": 73,
+  "defense": 70,
+  "special attack": 73,
+  "special defense": 115,
+  "speed": 67,
+  "abilities": [
+    "insomnia",
+    "forewarn",
+    "inner focus"
+  ],
+  "level_up_moves": {
+    "1": [
+      "pound",
+      "hypnosis",
+      "disable"
+    ],
+    "12": [
+      "disable"
+    ],
+    "17": [
+      "confusion"
+    ],
+    "24": [
+      "headbutt"
+    ],
+    "33": [
+      "poison gas"
+    ],
+    "37": [
+      "psychic"
+    ],
+    "43": [
+      "meditate"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Jigglypuff",
+  "pokedex": "039",
+  "type1": "normal",
+  "type2": null,
+  "hp": 115,
+  "attack": 45,
+  "defense": 20,
+  "special attack": 45,
+  "special defense": 25,
+  "speed": 20,
+  "abilities": [
+    "cute charm",
+    "competitive",
+    "friend guard"
+  ],
+  "level_up_moves": {
+    "1": [
+      "sing"
+    ],
+    "9": [
+      "pound"
+    ],
+    "14": [
+      "disable"
+    ],
+    "19": [
+      "defense curl"
+    ],
+    "24": [
+      "double slap"
+    ],
+    "29": [
+      "rest"
+    ],
+    "34": [
+      "body slam"
+    ],
+    "39": [
+      "double-edge"
+    ]
+  }
+}

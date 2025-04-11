@@ -1,0 +1,41 @@
+{
+  "name": "Pidgeotto",
+  "pokedex": "017",
+  "type1": "normal",
+  "type2": "flying",
+  "hp": 63,
+  "attack": 60,
+  "defense": 55,
+  "special attack": 50,
+  "special defense": 50,
+  "speed": 71,
+  "abilities": [
+    "keen eye",
+    "tangled feet",
+    "big pecks"
+  ],
+  "level_up_moves": {
+    "1": [
+      "gust",
+      "sand attack"
+    ],
+    "5": [
+      "sand attack"
+    ],
+    "12": [
+      "quick attack"
+    ],
+    "21": [
+      "whirlwind"
+    ],
+    "31": [
+      "wing attack"
+    ],
+    "40": [
+      "agility"
+    ],
+    "49": [
+      "mirror move"
+    ]
+  }
+}

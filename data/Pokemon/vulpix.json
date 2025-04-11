@@ -1,0 +1,37 @@
+{
+  "name": "Vulpix",
+  "pokedex": "037",
+  "type1": "fire",
+  "type2": null,
+  "hp": 38,
+  "attack": 41,
+  "defense": 40,
+  "special attack": 50,
+  "special defense": 65,
+  "speed": 65,
+  "abilities": [
+    "flash fire",
+    "drought"
+  ],
+  "level_up_moves": {
+    "1": [
+      "ember",
+      "tail whip"
+    ],
+    "16": [
+      "quick attack"
+    ],
+    "21": [
+      "roar"
+    ],
+    "28": [
+      "confuse ray"
+    ],
+    "35": [
+      "flamethrower"
+    ],
+    "42": [
+      "fire spin"
+    ]
+  }
+}

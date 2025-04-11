@@ -1,0 +1,37 @@
+{
+  "name": "Mewtwo",
+  "pokedex": "150",
+  "type1": "psychic",
+  "type2": null,
+  "hp": 106,
+  "attack": 110,
+  "defense": 90,
+  "special attack": 154,
+  "special defense": 90,
+  "speed": 130,
+  "abilities": [
+    "pressure",
+    "unnerve"
+  ],
+  "level_up_moves": {
+    "1": [
+      "confusion",
+      "disable"
+    ],
+    "66": [
+      "swift"
+    ],
+    "70": [
+      "barrier"
+    ],
+    "75": [
+      "psychic"
+    ],
+    "81": [
+      "recover"
+    ],
+    "86": [
+      "mist"
+    ]
+  }
+}

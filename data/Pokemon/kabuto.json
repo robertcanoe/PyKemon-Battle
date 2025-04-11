@@ -1,0 +1,35 @@
+{
+  "name": "Kabuto",
+  "pokedex": "140",
+  "type1": "rock",
+  "type2": "water",
+  "hp": 30,
+  "attack": 80,
+  "defense": 90,
+  "special attack": 55,
+  "special defense": 45,
+  "speed": 55,
+  "abilities": [
+    "swift swim",
+    "battle armor",
+    "weak armor"
+  ],
+  "level_up_moves": {
+    "1": [
+      "scratch",
+      "harden"
+    ],
+    "34": [
+      "absorb"
+    ],
+    "39": [
+      "slash"
+    ],
+    "44": [
+      "leer"
+    ],
+    "49": [
+      "hydro pump"
+    ]
+  }
+}

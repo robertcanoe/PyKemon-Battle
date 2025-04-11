@@ -1,0 +1,44 @@
+{
+  "name": "Venonat",
+  "pokedex": "048",
+  "type1": "bug",
+  "type2": "poison",
+  "hp": 60,
+  "attack": 55,
+  "defense": 50,
+  "special attack": 40,
+  "special defense": 55,
+  "speed": 45,
+  "abilities": [
+    "compound eyes",
+    "tinted lens",
+    "run away"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "disable"
+    ],
+    "11": [
+      "supersonic"
+    ],
+    "19": [
+      "confusion"
+    ],
+    "24": [
+      "poison powder"
+    ],
+    "27": [
+      "leech life"
+    ],
+    "30": [
+      "stun spore"
+    ],
+    "35": [
+      "psybeam"
+    ],
+    "43": [
+      "sleep powder"
+    ]
+  }
+}

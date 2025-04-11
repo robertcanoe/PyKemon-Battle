@@ -1,0 +1,37 @@
+{
+  "name": "Spearow",
+  "pokedex": "021",
+  "type1": "normal",
+  "type2": "flying",
+  "hp": 40,
+  "attack": 60,
+  "defense": 30,
+  "special attack": 31,
+  "special defense": 31,
+  "speed": 70,
+  "abilities": [
+    "keen eye",
+    "sniper"
+  ],
+  "level_up_moves": {
+    "1": [
+      "peck",
+      "growl"
+    ],
+    "9": [
+      "leer"
+    ],
+    "15": [
+      "fury attack"
+    ],
+    "22": [
+      "mirror move"
+    ],
+    "29": [
+      "drill peck"
+    ],
+    "36": [
+      "agility"
+    ]
+  }
+}

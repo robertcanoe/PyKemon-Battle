@@ -1,0 +1,26 @@
+{
+  "name": "Exeggutor",
+  "pokedex": "103",
+  "type1": "grass",
+  "type2": "psychic",
+  "hp": 95,
+  "attack": 95,
+  "defense": 85,
+  "special attack": 125,
+  "special defense": 65,
+  "speed": 55,
+  "abilities": [
+    "chlorophyll",
+    "harvest"
+  ],
+  "level_up_moves": {
+    "1": [
+      "barrage",
+      "hypnosis",
+      "confusion"
+    ],
+    "28": [
+      "stomp"
+    ]
+  }
+}

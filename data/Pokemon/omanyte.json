@@ -1,0 +1,35 @@
+{
+  "name": "Omanyte",
+  "pokedex": "138",
+  "type1": "rock",
+  "type2": "water",
+  "hp": 35,
+  "attack": 40,
+  "defense": 100,
+  "special attack": 90,
+  "special defense": 55,
+  "speed": 35,
+  "abilities": [
+    "swift swim",
+    "shell armor",
+    "weak armor"
+  ],
+  "level_up_moves": {
+    "1": [
+      "constrict",
+      "withdraw"
+    ],
+    "34": [
+      "horn attack"
+    ],
+    "39": [
+      "leer"
+    ],
+    "46": [
+      "spike cannon"
+    ],
+    "53": [
+      "hydro pump"
+    ]
+  }
+}

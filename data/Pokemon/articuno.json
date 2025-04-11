@@ -1,0 +1,31 @@
+{
+  "name": "Articuno",
+  "pokedex": "144",
+  "type1": "ice",
+  "type2": "flying",
+  "hp": 90,
+  "attack": 85,
+  "defense": 100,
+  "special attack": 95,
+  "special defense": 125,
+  "speed": 85,
+  "abilities": [
+    "pressure",
+    "snow cloak"
+  ],
+  "level_up_moves": {
+    "1": [
+      "peck",
+      "ice beam"
+    ],
+    "51": [
+      "blizzard"
+    ],
+    "55": [
+      "agility"
+    ],
+    "60": [
+      "mist"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Poliwrath",
+  "pokedex": "062",
+  "type1": "water",
+  "type2": "fighting",
+  "hp": 90,
+  "attack": 85,
+  "defense": 95,
+  "special attack": 70,
+  "special defense": 90,
+  "speed": 70,
+  "abilities": [
+    "water absorb",
+    "damp",
+    "swift swim"
+  ],
+  "level_up_moves": {
+    "1": [
+      "bubble",
+      "hypnosis",
+      "water gun"
+    ],
+    "16": [
+      "hypnosis"
+    ],
+    "19": [
+      "double slap"
+    ]
+  }
+}

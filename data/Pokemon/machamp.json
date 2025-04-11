@@ -1,0 +1,39 @@
+{
+  "name": "Machamp",
+  "pokedex": "068",
+  "type1": "fighting",
+  "type2": null,
+  "hp": 90,
+  "attack": 130,
+  "defense": 80,
+  "special attack": 65,
+  "special defense": 85,
+  "speed": 55,
+  "abilities": [
+    "guts",
+    "no guard",
+    "steadfast"
+  ],
+  "level_up_moves": {
+    "1": [
+      "karate chop",
+      "low kick",
+      "leer"
+    ],
+    "20": [
+      "low kick"
+    ],
+    "25": [
+      "leer"
+    ],
+    "36": [
+      "focus energy"
+    ],
+    "44": [
+      "seismic toss"
+    ],
+    "52": [
+      "submission"
+    ]
+  }
+}

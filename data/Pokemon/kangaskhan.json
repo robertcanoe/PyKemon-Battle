@@ -1,0 +1,38 @@
+{
+  "name": "Kangaskhan",
+  "pokedex": "115",
+  "type1": "normal",
+  "type2": null,
+  "hp": 105,
+  "attack": 95,
+  "defense": 80,
+  "special attack": 40,
+  "special defense": 80,
+  "speed": 90,
+  "abilities": [
+    "early bird",
+    "scrappy",
+    "inner focus"
+  ],
+  "level_up_moves": {
+    "1": [
+      "comet punch",
+      "leer"
+    ],
+    "26": [
+      "bite"
+    ],
+    "31": [
+      "tail whip"
+    ],
+    "36": [
+      "mega punch"
+    ],
+    "41": [
+      "rage"
+    ],
+    "46": [
+      "dizzy punch"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Mew",
+  "pokedex": "151",
+  "type1": "psychic",
+  "type2": null,
+  "hp": 100,
+  "attack": 100,
+  "defense": 100,
+  "special attack": 100,
+  "special defense": 100,
+  "speed": 100,
+  "abilities": [
+    "synchronize"
+  ],
+  "level_up_moves": {
+    "1": [
+      "pound"
+    ],
+    "10": [
+      "transform"
+    ],
+    "20": [
+      "mega punch"
+    ],
+    "30": [
+      "metronome"
+    ],
+    "40": [
+      "psychic"
+    ],
+    "50": [
+      "ancient power"
+    ]
+  }
+}

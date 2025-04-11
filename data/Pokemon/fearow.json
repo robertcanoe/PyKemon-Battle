@@ -1,0 +1,38 @@
+{
+  "name": "Fearow",
+  "pokedex": "022",
+  "type1": "normal",
+  "type2": "flying",
+  "hp": 65,
+  "attack": 90,
+  "defense": 65,
+  "special attack": 61,
+  "special defense": 61,
+  "speed": 100,
+  "abilities": [
+    "keen eye",
+    "sniper"
+  ],
+  "level_up_moves": {
+    "1": [
+      "peck",
+      "growl",
+      "leer"
+    ],
+    "9": [
+      "leer"
+    ],
+    "15": [
+      "fury attack"
+    ],
+    "25": [
+      "mirror move"
+    ],
+    "34": [
+      "drill peck"
+    ],
+    "43": [
+      "agility"
+    ]
+  }
+}

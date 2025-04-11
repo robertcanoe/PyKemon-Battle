@@ -1,0 +1,48 @@
+{
+  "name": "Venomoth",
+  "pokedex": "049",
+  "type1": "bug",
+  "type2": "poison",
+  "hp": 70,
+  "attack": 65,
+  "defense": 60,
+  "special attack": 90,
+  "special defense": 75,
+  "speed": 90,
+  "abilities": [
+    "shield dust",
+    "tinted lens",
+    "wonder skin"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "disable",
+      "supersonic"
+    ],
+    "11": [
+      "supersonic"
+    ],
+    "19": [
+      "confusion"
+    ],
+    "24": [
+      "poison powder"
+    ],
+    "27": [
+      "leech life"
+    ],
+    "30": [
+      "stun spore"
+    ],
+    "38": [
+      "psybeam"
+    ],
+    "46": [
+      "sleep powder"
+    ],
+    "55": [
+      "psychic"
+    ]
+  }
+}

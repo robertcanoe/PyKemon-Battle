@@ -1,0 +1,41 @@
+{
+  "name": "Dodrio",
+  "pokedex": "085",
+  "type1": "normal",
+  "type2": "flying",
+  "hp": 60,
+  "attack": 110,
+  "defense": 70,
+  "special attack": 60,
+  "special defense": 60,
+  "speed": 100,
+  "abilities": [
+    "run away",
+    "early bird",
+    "tangled feet"
+  ],
+  "level_up_moves": {
+    "1": [
+      "peck",
+      "growl"
+    ],
+    "20": [
+      "growl"
+    ],
+    "24": [
+      "fury attack"
+    ],
+    "30": [
+      "drill peck"
+    ],
+    "39": [
+      "rage"
+    ],
+    "45": [
+      "tri attack"
+    ],
+    "51": [
+      "agility"
+    ]
+  }
+}

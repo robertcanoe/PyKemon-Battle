@@ -1,0 +1,28 @@
+{
+  "name": "Cloyster",
+  "pokedex": "091",
+  "type1": "water",
+  "type2": "ice",
+  "hp": 50,
+  "attack": 95,
+  "defense": 180,
+  "special attack": 85,
+  "special defense": 45,
+  "speed": 70,
+  "abilities": [
+    "shell armor",
+    "skill link",
+    "overcoat"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "withdraw",
+      "supersonic",
+      "aurora beam"
+    ],
+    "50": [
+      "spike cannon"
+    ]
+  }
+}

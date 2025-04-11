@@ -1,0 +1,37 @@
+{
+  "name": "Aerodactyl",
+  "pokedex": "142",
+  "type1": "rock",
+  "type2": "flying",
+  "hp": 80,
+  "attack": 105,
+  "defense": 65,
+  "special attack": 60,
+  "special defense": 75,
+  "speed": 130,
+  "abilities": [
+    "rock head",
+    "pressure",
+    "unnerve"
+  ],
+  "level_up_moves": {
+    "1": [
+      "wing attack"
+    ],
+    "33": [
+      "agility"
+    ],
+    "38": [
+      "supersonic"
+    ],
+    "45": [
+      "bite"
+    ],
+    "54": [
+      "take down"
+    ],
+    "65": [
+      "hyper beam"
+    ]
+  }
+}

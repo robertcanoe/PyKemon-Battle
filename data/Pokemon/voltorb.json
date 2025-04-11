@@ -1,0 +1,37 @@
+{
+  "name": "Voltorb",
+  "pokedex": "100",
+  "type1": "electric",
+  "type2": null,
+  "hp": 40,
+  "attack": 30,
+  "defense": 50,
+  "special attack": 55,
+  "special defense": 55,
+  "speed": 100,
+  "abilities": [
+    "soundproof",
+    "static",
+    "aftermath"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle"
+    ],
+    "17": [
+      "sonic boom"
+    ],
+    "22": [
+      "self-destruct"
+    ],
+    "29": [
+      "light screen"
+    ],
+    "36": [
+      "swift"
+    ],
+    "43": [
+      "explosion"
+    ]
+  }
+}

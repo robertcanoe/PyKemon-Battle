@@ -1,0 +1,36 @@
+{
+  "name": "Raticate",
+  "pokedex": "020",
+  "type1": "normal",
+  "type2": null,
+  "hp": 55,
+  "attack": 81,
+  "defense": 60,
+  "special attack": 50,
+  "special defense": 70,
+  "speed": 97,
+  "abilities": [
+    "run away",
+    "guts",
+    "hustle"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "tail whip",
+      "quick attack"
+    ],
+    "7": [
+      "quick attack"
+    ],
+    "14": [
+      "hyper fang"
+    ],
+    "27": [
+      "focus energy"
+    ],
+    "41": [
+      "super fang"
+    ]
+  }
+}

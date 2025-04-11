@@ -1,0 +1,41 @@
+{
+  "name": "Goldeen",
+  "pokedex": "118",
+  "type1": "water",
+  "type2": null,
+  "hp": 45,
+  "attack": 67,
+  "defense": 60,
+  "special attack": 35,
+  "special defense": 50,
+  "speed": 63,
+  "abilities": [
+    "swift swim",
+    "water veil",
+    "lightning rod"
+  ],
+  "level_up_moves": {
+    "1": [
+      "peck",
+      "tail whip"
+    ],
+    "19": [
+      "supersonic"
+    ],
+    "24": [
+      "horn attack"
+    ],
+    "30": [
+      "fury attack"
+    ],
+    "37": [
+      "waterfall"
+    ],
+    "45": [
+      "horn drill"
+    ],
+    "54": [
+      "agility"
+    ]
+  }
+}

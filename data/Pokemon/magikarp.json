@@ -1,0 +1,27 @@
+{
+  "name": "Magikarp",
+  "pokedex": "129",
+  "type1": "water",
+  "type2": null,
+  "hp": 20,
+  "attack": 10,
+  "defense": 55,
+  "special attack": 15,
+  "special defense": 20,
+  "speed": 80,
+  "abilities": [
+    "swift swim",
+    "rattled"
+  ],
+  "level_up_moves": {
+    "1": [
+      "splash"
+    ],
+    "15": [
+      "tackle"
+    ],
+    "30": [
+      "flail"
+    ]
+  }
+}

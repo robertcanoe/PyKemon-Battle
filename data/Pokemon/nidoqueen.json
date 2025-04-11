@@ -1,0 +1,37 @@
+{
+  "name": "Nidoqueen",
+  "pokedex": "031",
+  "type1": "poison",
+  "type2": "ground",
+  "hp": 90,
+  "attack": 82,
+  "defense": 87,
+  "special attack": 75,
+  "special defense": 85,
+  "speed": 76,
+  "abilities": [
+    "poison point",
+    "rivalry",
+    "sheer force"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "scratch",
+      "tail whip",
+      "poison sting"
+    ],
+    "8": [
+      "scratch"
+    ],
+    "14": [
+      "poison sting"
+    ],
+    "23": [
+      "body slam"
+    ],
+    "43": [
+      "superpower"
+    ]
+  }
+}

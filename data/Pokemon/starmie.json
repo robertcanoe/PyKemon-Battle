@@ -1,0 +1,24 @@
+{
+  "name": "Starmie",
+  "pokedex": "121",
+  "type1": "water",
+  "type2": "psychic",
+  "hp": 60,
+  "attack": 75,
+  "defense": 85,
+  "special attack": 100,
+  "special defense": 85,
+  "speed": 115,
+  "abilities": [
+    "illuminate",
+    "natural cure",
+    "analytic"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "water gun",
+      "harden"
+    ]
+  }
+}

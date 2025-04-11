@@ -1,0 +1,37 @@
+{
+  "name": "Shellder",
+  "pokedex": "090",
+  "type1": "water",
+  "type2": null,
+  "hp": 30,
+  "attack": 65,
+  "defense": 100,
+  "special attack": 45,
+  "special defense": 25,
+  "speed": 40,
+  "abilities": [
+    "shell armor",
+    "skill link",
+    "overcoat"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle"
+    ],
+    "18": [
+      "supersonic"
+    ],
+    "23": [
+      "clamp"
+    ],
+    "28": [
+      "aurora beam"
+    ],
+    "33": [
+      "leer"
+    ],
+    "39": [
+      "ice beam"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Magneton",
+  "pokedex": "082",
+  "type1": "electric",
+  "type2": null,
+  "hp": 50,
+  "attack": 60,
+  "defense": 95,
+  "special attack": 120,
+  "special defense": 70,
+  "speed": 70,
+  "abilities": [
+    "magnet pull",
+    "sturdy",
+    "analytic"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "sonic boom"
+    ],
+    "21": [
+      "sonic boom"
+    ],
+    "25": [
+      "thunder shock"
+    ],
+    "29": [
+      "supersonic"
+    ],
+    "38": [
+      "thunder wave"
+    ],
+    "46": [
+      "swift"
+    ],
+    "54": [
+      "screech"
+    ]
+  }
+}

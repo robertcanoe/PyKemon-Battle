@@ -1,0 +1,38 @@
+{
+  "name": "Golbat",
+  "pokedex": "042",
+  "type1": "poison",
+  "type2": "flying",
+  "hp": 75,
+  "attack": 80,
+  "defense": 70,
+  "special attack": 65,
+  "special defense": 75,
+  "speed": 90,
+  "abilities": [
+    "inner focus",
+    "infiltrator"
+  ],
+  "level_up_moves": {
+    "1": [
+      "screech",
+      "leech life",
+      "supersonic"
+    ],
+    "10": [
+      "supersonic"
+    ],
+    "15": [
+      "bite"
+    ],
+    "21": [
+      "confuse ray"
+    ],
+    "32": [
+      "wing attack"
+    ],
+    "43": [
+      "haze"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Rapidash",
+  "pokedex": "078",
+  "type1": "fire",
+  "type2": null,
+  "hp": 65,
+  "attack": 100,
+  "defense": 70,
+  "special attack": 80,
+  "special defense": 80,
+  "speed": 105,
+  "abilities": [
+    "run away",
+    "flash fire",
+    "flame body"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "tail whip"
+    ],
+    "30": [
+      "tail whip"
+    ],
+    "32": [
+      "stomp"
+    ],
+    "35": [
+      "growl"
+    ],
+    "39": [
+      "fire spin"
+    ],
+    "47": [
+      "take down"
+    ],
+    "55": [
+      "agility"
+    ]
+  }
+}

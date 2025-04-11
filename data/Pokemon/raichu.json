@@ -1,0 +1,37 @@
+{
+  "name": "Raichu",
+  "pokedex": "026",
+  "type1": "electric",
+  "type2": null,
+  "hp": 60,
+  "attack": 90,
+  "defense": 55,
+  "special attack": 90,
+  "special defense": 80,
+  "speed": 100,
+  "abilities": [
+    "static",
+    "lightning rod"
+  ],
+  "level_up_moves": {
+    "1": [
+      "thunder shock",
+      "growl"
+    ],
+    "9": [
+      "tail whip"
+    ],
+    "16": [
+      "quick attack"
+    ],
+    "26": [
+      "swift"
+    ],
+    "33": [
+      "agility"
+    ],
+    "43": [
+      "thunder"
+    ]
+  }
+}

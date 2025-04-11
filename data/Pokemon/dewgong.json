@@ -1,0 +1,38 @@
+{
+  "name": "Dewgong",
+  "pokedex": "087",
+  "type1": "water",
+  "type2": "ice",
+  "hp": 90,
+  "attack": 70,
+  "defense": 80,
+  "special attack": 70,
+  "special defense": 95,
+  "speed": 70,
+  "abilities": [
+    "thick fat",
+    "hydration",
+    "ice body"
+  ],
+  "level_up_moves": {
+    "1": [
+      "headbutt",
+      "growl"
+    ],
+    "30": [
+      "growl"
+    ],
+    "35": [
+      "aurora beam"
+    ],
+    "44": [
+      "rest"
+    ],
+    "50": [
+      "take down"
+    ],
+    "55": [
+      "ice beam"
+    ]
+  }
+}

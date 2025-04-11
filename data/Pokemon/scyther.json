@@ -1,0 +1,40 @@
+{
+  "name": "Scyther",
+  "pokedex": "123",
+  "type1": "bug",
+  "type2": "flying",
+  "hp": 70,
+  "attack": 110,
+  "defense": 80,
+  "special attack": 55,
+  "special defense": 80,
+  "speed": 105,
+  "abilities": [
+    "swarm",
+    "technician",
+    "steadfast"
+  ],
+  "level_up_moves": {
+    "1": [
+      "quick attack"
+    ],
+    "17": [
+      "leer"
+    ],
+    "20": [
+      "focus energy"
+    ],
+    "24": [
+      "double team"
+    ],
+    "29": [
+      "slash"
+    ],
+    "35": [
+      "swords dance"
+    ],
+    "42": [
+      "agility"
+    ]
+  }
+}

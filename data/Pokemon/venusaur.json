@@ -1,0 +1,45 @@
+{
+  "name": "Venusaur",
+  "pokedex": "003",
+  "type1": "grass",
+  "type2": "poison",
+  "hp": 80,
+  "attack": 82,
+  "defense": 83,
+  "special attack": 100,
+  "special defense": 100,
+  "speed": 80,
+  "abilities": [
+    "overgrow",
+    "chlorophyll"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "growl",
+      "leech seed",
+      "vine whip"
+    ],
+    "7": [
+      "leech seed"
+    ],
+    "13": [
+      "vine whip"
+    ],
+    "22": [
+      "poison powder"
+    ],
+    "30": [
+      "razor leaf"
+    ],
+    "43": [
+      "growth"
+    ],
+    "55": [
+      "sleep powder"
+    ],
+    "65": [
+      "solar beam"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Butterfree",
+  "pokedex": "012",
+  "type1": "bug",
+  "type2": "flying",
+  "hp": 60,
+  "attack": 45,
+  "defense": 50,
+  "special attack": 80,
+  "special defense": 80,
+  "speed": 70,
+  "abilities": [
+    "compound eyes",
+    "tinted lens"
+  ],
+  "level_up_moves": {
+    "1": [
+      "confusion"
+    ],
+    "10": [
+      "confusion"
+    ],
+    "13": [
+      "poison powder"
+    ],
+    "14": [
+      "stun spore"
+    ],
+    "15": [
+      "sleep powder"
+    ],
+    "18": [
+      "supersonic"
+    ],
+    "23": [
+      "whirlwind"
+    ],
+    "28": [
+      "gust"
+    ],
+    "34": [
+      "psybeam"
+    ],
+    "40": [
+      "safeguard"
+    ]
+  }
+}

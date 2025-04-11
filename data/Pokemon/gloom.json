@@ -1,0 +1,40 @@
+{
+  "name": "Gloom",
+  "pokedex": "044",
+  "type1": "grass",
+  "type2": "poison",
+  "hp": 60,
+  "attack": 65,
+  "defense": 70,
+  "special attack": 85,
+  "special defense": 75,
+  "speed": 40,
+  "abilities": [
+    "chlorophyll",
+    "stench"
+  ],
+  "level_up_moves": {
+    "1": [
+      "absorb",
+      "poison powder"
+    ],
+    "15": [
+      "poison powder"
+    ],
+    "17": [
+      "stun spore"
+    ],
+    "19": [
+      "sleep powder"
+    ],
+    "28": [
+      "acid"
+    ],
+    "38": [
+      "petal dance"
+    ],
+    "52": [
+      "solar beam"
+    ]
+  }
+}

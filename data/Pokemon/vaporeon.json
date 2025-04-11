@@ -1,0 +1,44 @@
+{
+  "name": "Vaporeon",
+  "pokedex": "134",
+  "type1": "water",
+  "type2": null,
+  "hp": 130,
+  "attack": 65,
+  "defense": 60,
+  "special attack": 110,
+  "special defense": 95,
+  "speed": 65,
+  "abilities": [
+    "water absorb",
+    "hydration"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "tail whip",
+      "water gun"
+    ],
+    "8": [
+      "sand attack"
+    ],
+    "16": [
+      "water gun"
+    ],
+    "23": [
+      "quick attack"
+    ],
+    "30": [
+      "bite"
+    ],
+    "36": [
+      "aurora beam"
+    ],
+    "42": [
+      "haze"
+    ],
+    "47": [
+      "hydro pump"
+    ]
+  }
+}

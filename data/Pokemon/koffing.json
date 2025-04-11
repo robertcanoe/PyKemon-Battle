@@ -1,0 +1,38 @@
+{
+  "name": "Koffing",
+  "pokedex": "109",
+  "type1": "poison",
+  "type2": null,
+  "hp": 40,
+  "attack": 65,
+  "defense": 95,
+  "special attack": 60,
+  "special defense": 45,
+  "speed": 35,
+  "abilities": [
+    "levitate",
+    "neutralizing gas",
+    "stench"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "poison gas"
+    ],
+    "32": [
+      "sludge"
+    ],
+    "37": [
+      "smokescreen"
+    ],
+    "40": [
+      "haze"
+    ],
+    "45": [
+      "self-destruct"
+    ],
+    "48": [
+      "explosion"
+    ]
+  }
+}

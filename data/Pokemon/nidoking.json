@@ -1,0 +1,34 @@
+{
+  "name": "Nidoking",
+  "pokedex": "034",
+  "type1": "poison",
+  "type2": "ground",
+  "hp": 81,
+  "attack": 92,
+  "defense": 77,
+  "special attack": 85,
+  "special defense": 75,
+  "speed": 85,
+  "abilities": [
+    "poison point",
+    "rivalry",
+    "sheer force"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "horn attack",
+      "poison sting",
+      "focus energy"
+    ],
+    "8": [
+      "horn attack"
+    ],
+    "14": [
+      "poison sting"
+    ],
+    "23": [
+      "thrash"
+    ]
+  }
+}

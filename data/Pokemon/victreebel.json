@@ -1,0 +1,32 @@
+{
+  "name": "Victreebel",
+  "pokedex": "071",
+  "type1": "grass",
+  "type2": "poison",
+  "hp": 80,
+  "attack": 105,
+  "defense": 65,
+  "special attack": 100,
+  "special defense": 60,
+  "speed": 70,
+  "abilities": [
+    "chlorophyll",
+    "gluttony"
+  ],
+  "level_up_moves": {
+    "1": [
+      "vine whip",
+      "growth",
+      "wrap"
+    ],
+    "13": [
+      "sleep powder"
+    ],
+    "15": [
+      "poison powder"
+    ],
+    "17": [
+      "stun spore"
+    ]
+  }
+}

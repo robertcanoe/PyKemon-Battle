@@ -1,0 +1,42 @@
+{
+  "name": "Blastoise",
+  "pokedex": "009",
+  "type1": "water",
+  "type2": null,
+  "hp": 79,
+  "attack": 83,
+  "defense": 100,
+  "special attack": 85,
+  "special defense": 105,
+  "speed": 78,
+  "abilities": [
+    "torrent",
+    "rain dish"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "tail whip",
+      "bubble",
+      "water gun"
+    ],
+    "8": [
+      "bubble"
+    ],
+    "15": [
+      "water gun"
+    ],
+    "24": [
+      "bite"
+    ],
+    "31": [
+      "withdraw"
+    ],
+    "42": [
+      "skull bash"
+    ],
+    "52": [
+      "hydro pump"
+    ]
+  }
+}

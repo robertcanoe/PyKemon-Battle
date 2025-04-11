@@ -1,0 +1,41 @@
+{
+  "name": "Nidoran\u2642",
+  "pokedex": "032",
+  "type1": "poison",
+  "type2": null,
+  "hp": 46,
+  "attack": 57,
+  "defense": 40,
+  "special attack": 40,
+  "special defense": 40,
+  "speed": 50,
+  "abilities": [
+    "poison point",
+    "rivalry",
+    "hustle"
+  ],
+  "level_up_moves": {
+    "1": [
+      "leer",
+      "tackle"
+    ],
+    "8": [
+      "horn attack"
+    ],
+    "14": [
+      "poison sting"
+    ],
+    "21": [
+      "focus energy"
+    ],
+    "29": [
+      "fury attack"
+    ],
+    "36": [
+      "horn drill"
+    ],
+    "43": [
+      "double kick"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Oddish",
+  "pokedex": "043",
+  "type1": "grass",
+  "type2": "poison",
+  "hp": 45,
+  "attack": 50,
+  "defense": 55,
+  "special attack": 75,
+  "special defense": 65,
+  "speed": 30,
+  "abilities": [
+    "chlorophyll",
+    "run away"
+  ],
+  "level_up_moves": {
+    "1": [
+      "absorb"
+    ],
+    "15": [
+      "poison powder"
+    ],
+    "17": [
+      "stun spore"
+    ],
+    "19": [
+      "sleep powder"
+    ],
+    "24": [
+      "acid"
+    ],
+    "33": [
+      "petal dance"
+    ],
+    "46": [
+      "solar beam"
+    ]
+  }
+}

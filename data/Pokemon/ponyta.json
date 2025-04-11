@@ -1,0 +1,40 @@
+{
+  "name": "Ponyta",
+  "pokedex": "077",
+  "type1": "fire",
+  "type2": null,
+  "hp": 50,
+  "attack": 85,
+  "defense": 55,
+  "special attack": 65,
+  "special defense": 65,
+  "speed": 90,
+  "abilities": [
+    "run away",
+    "flash fire",
+    "flame body"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle"
+    ],
+    "30": [
+      "tail whip"
+    ],
+    "32": [
+      "stomp"
+    ],
+    "35": [
+      "growl"
+    ],
+    "39": [
+      "fire spin"
+    ],
+    "43": [
+      "take down"
+    ],
+    "48": [
+      "agility"
+    ]
+  }
+}

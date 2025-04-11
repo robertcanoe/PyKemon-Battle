@@ -1,0 +1,41 @@
+{
+  "name": "Mankey",
+  "pokedex": "056",
+  "type1": "fighting",
+  "type2": null,
+  "hp": 40,
+  "attack": 80,
+  "defense": 35,
+  "special attack": 35,
+  "special defense": 45,
+  "speed": 70,
+  "abilities": [
+    "vital spirit",
+    "anger point",
+    "defiant"
+  ],
+  "level_up_moves": {
+    "1": [
+      "scratch",
+      "leer"
+    ],
+    "9": [
+      "low kick"
+    ],
+    "15": [
+      "karate chop"
+    ],
+    "21": [
+      "fury swipes"
+    ],
+    "27": [
+      "focus energy"
+    ],
+    "33": [
+      "seismic toss"
+    ],
+    "39": [
+      "thrash"
+    ]
+  }
+}

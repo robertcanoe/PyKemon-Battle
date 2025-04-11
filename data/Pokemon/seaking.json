@@ -1,0 +1,42 @@
+{
+  "name": "Seaking",
+  "pokedex": "119",
+  "type1": "water",
+  "type2": null,
+  "hp": 80,
+  "attack": 92,
+  "defense": 65,
+  "special attack": 65,
+  "special defense": 80,
+  "speed": 68,
+  "abilities": [
+    "swift swim",
+    "water veil",
+    "lightning rod"
+  ],
+  "level_up_moves": {
+    "1": [
+      "peck",
+      "tail whip",
+      "supersonic"
+    ],
+    "19": [
+      "supersonic"
+    ],
+    "24": [
+      "horn attack"
+    ],
+    "30": [
+      "fury attack"
+    ],
+    "39": [
+      "waterfall"
+    ],
+    "48": [
+      "horn drill"
+    ],
+    "54": [
+      "agility"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Magmar",
+  "pokedex": "126",
+  "type1": "fire",
+  "type2": null,
+  "hp": 65,
+  "attack": 95,
+  "defense": 57,
+  "special attack": 100,
+  "special defense": 85,
+  "speed": 93,
+  "abilities": [
+    "flame body",
+    "vital spirit"
+  ],
+  "level_up_moves": {
+    "1": [
+      "ember"
+    ],
+    "36": [
+      "leer"
+    ],
+    "39": [
+      "fire punch"
+    ],
+    "43": [
+      "smokescreen"
+    ],
+    "48": [
+      "smog"
+    ],
+    "52": [
+      "flamethrower"
+    ]
+  }
+}

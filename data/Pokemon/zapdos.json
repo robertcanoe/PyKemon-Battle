@@ -1,0 +1,31 @@
+{
+  "name": "Zapdos",
+  "pokedex": "145",
+  "type1": "electric",
+  "type2": "flying",
+  "hp": 90,
+  "attack": 90,
+  "defense": 85,
+  "special attack": 125,
+  "special defense": 90,
+  "speed": 100,
+  "abilities": [
+    "pressure",
+    "static"
+  ],
+  "level_up_moves": {
+    "1": [
+      "thunder shock",
+      "drill peck"
+    ],
+    "51": [
+      "thunder"
+    ],
+    "55": [
+      "agility"
+    ],
+    "60": [
+      "light screen"
+    ]
+  }
+}

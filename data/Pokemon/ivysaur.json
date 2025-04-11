@@ -1,0 +1,44 @@
+{
+  "name": "Ivysaur",
+  "pokedex": "002",
+  "type1": "grass",
+  "type2": "poison",
+  "hp": 60,
+  "attack": 62,
+  "defense": 63,
+  "special attack": 80,
+  "special defense": 80,
+  "speed": 60,
+  "abilities": [
+    "overgrow",
+    "chlorophyll"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "growl",
+      "leech seed"
+    ],
+    "7": [
+      "leech seed"
+    ],
+    "13": [
+      "vine whip"
+    ],
+    "22": [
+      "poison powder"
+    ],
+    "30": [
+      "razor leaf"
+    ],
+    "38": [
+      "growth"
+    ],
+    "46": [
+      "sleep powder"
+    ],
+    "54": [
+      "solar beam"
+    ]
+  }
+}

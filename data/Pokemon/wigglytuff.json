@@ -1,0 +1,25 @@
+{
+  "name": "Wigglytuff",
+  "pokedex": "040",
+  "type1": "normal",
+  "type2": null,
+  "hp": 140,
+  "attack": 70,
+  "defense": 45,
+  "special attack": 75,
+  "special defense": 50,
+  "speed": 45,
+  "abilities": [
+    "cute charm",
+    "competitive",
+    "frisk"
+  ],
+  "level_up_moves": {
+    "1": [
+      "sing",
+      "disable",
+      "defense curl",
+      "double slap"
+    ]
+  }
+}

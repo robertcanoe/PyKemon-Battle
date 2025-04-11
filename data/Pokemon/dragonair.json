@@ -1,0 +1,38 @@
+{
+  "name": "Dragonair",
+  "pokedex": "148",
+  "type1": "dragon",
+  "type2": null,
+  "hp": 61,
+  "attack": 84,
+  "defense": 65,
+  "special attack": 70,
+  "special defense": 70,
+  "speed": 70,
+  "abilities": [
+    "shed skin",
+    "marvel scale"
+  ],
+  "level_up_moves": {
+    "1": [
+      "wrap",
+      "leer",
+      "thunder wave"
+    ],
+    "10": [
+      "thunder wave"
+    ],
+    "20": [
+      "agility"
+    ],
+    "35": [
+      "slam"
+    ],
+    "45": [
+      "dragon rage"
+    ],
+    "55": [
+      "hyper beam"
+    ]
+  }
+}

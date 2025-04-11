@@ -1,0 +1,45 @@
+{
+  "name": "Primeape",
+  "pokedex": "057",
+  "type1": "fighting",
+  "type2": null,
+  "hp": 65,
+  "attack": 105,
+  "defense": 60,
+  "special attack": 60,
+  "special defense": 70,
+  "speed": 95,
+  "abilities": [
+    "vital spirit",
+    "anger point",
+    "defiant"
+  ],
+  "level_up_moves": {
+    "1": [
+      "scratch",
+      "leer",
+      "low kick"
+    ],
+    "9": [
+      "low kick"
+    ],
+    "15": [
+      "karate chop"
+    ],
+    "21": [
+      "fury swipes"
+    ],
+    "27": [
+      "focus energy"
+    ],
+    "28": [
+      "rage"
+    ],
+    "37": [
+      "seismic toss"
+    ],
+    "46": [
+      "thrash"
+    ]
+  }
+}

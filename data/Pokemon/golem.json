@@ -1,0 +1,42 @@
+{
+  "name": "Golem",
+  "pokedex": "076",
+  "type1": "rock",
+  "type2": "ground",
+  "hp": 80,
+  "attack": 110,
+  "defense": 130,
+  "special attack": 55,
+  "special defense": 65,
+  "speed": 45,
+  "abilities": [
+    "rock head",
+    "sturdy",
+    "sand veil"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "defense curl",
+      "rock throw"
+    ],
+    "11": [
+      "defense curl"
+    ],
+    "16": [
+      "rock throw"
+    ],
+    "21": [
+      "self-destruct"
+    ],
+    "29": [
+      "harden"
+    ],
+    "36": [
+      "earthquake"
+    ],
+    "43": [
+      "explosion"
+    ]
+  }
+}

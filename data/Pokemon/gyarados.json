@@ -1,0 +1,36 @@
+{
+  "name": "Gyarados",
+  "pokedex": "130",
+  "type1": "water",
+  "type2": "flying",
+  "hp": 95,
+  "attack": 125,
+  "defense": 79,
+  "special attack": 60,
+  "special defense": 100,
+  "speed": 81,
+  "abilities": [
+    "intimidate",
+    "moxie"
+  ],
+  "level_up_moves": {
+    "1": [
+      "thrash"
+    ],
+    "20": [
+      "bite"
+    ],
+    "25": [
+      "dragon rage"
+    ],
+    "32": [
+      "leer"
+    ],
+    "41": [
+      "hydro pump"
+    ],
+    "52": [
+      "hyper beam"
+    ]
+  }
+}

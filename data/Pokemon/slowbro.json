@@ -1,0 +1,45 @@
+{
+  "name": "Slowbro",
+  "pokedex": "080",
+  "type1": "water",
+  "type2": "psychic",
+  "hp": 95,
+  "attack": 75,
+  "defense": 110,
+  "special attack": 100,
+  "special defense": 80,
+  "speed": 30,
+  "abilities": [
+    "oblivious",
+    "own tempo",
+    "regenerator"
+  ],
+  "level_up_moves": {
+    "1": [
+      "curse",
+      "tackle",
+      "water gun"
+    ],
+    "18": [
+      "water gun"
+    ],
+    "22": [
+      "growl"
+    ],
+    "27": [
+      "headbutt"
+    ],
+    "33": [
+      "disable"
+    ],
+    "37": [
+      "withdraw"
+    ],
+    "44": [
+      "confusion"
+    ],
+    "55": [
+      "amnesia"
+    ]
+  }
+}

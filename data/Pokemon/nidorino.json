@@ -1,0 +1,42 @@
+{
+  "name": "Nidorino",
+  "pokedex": "033",
+  "type1": "poison",
+  "type2": null,
+  "hp": 61,
+  "attack": 72,
+  "defense": 57,
+  "special attack": 55,
+  "special defense": 55,
+  "speed": 65,
+  "abilities": [
+    "poison point",
+    "rivalry",
+    "hustle"
+  ],
+  "level_up_moves": {
+    "1": [
+      "leer",
+      "tackle",
+      "horn attack"
+    ],
+    "8": [
+      "horn attack"
+    ],
+    "14": [
+      "poison sting"
+    ],
+    "23": [
+      "focus energy"
+    ],
+    "32": [
+      "fury attack"
+    ],
+    "41": [
+      "horn drill"
+    ],
+    "50": [
+      "double kick"
+    ]
+  }
+}

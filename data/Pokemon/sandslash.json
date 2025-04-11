@@ -1,0 +1,37 @@
+{
+  "name": "Sandslash",
+  "pokedex": "028",
+  "type1": "ground",
+  "type2": null,
+  "hp": 75,
+  "attack": 100,
+  "defense": 110,
+  "special attack": 45,
+  "special defense": 55,
+  "speed": 65,
+  "abilities": [
+    "sand veil",
+    "sand rush"
+  ],
+  "level_up_moves": {
+    "1": [
+      "scratch",
+      "sand attack"
+    ],
+    "10": [
+      "sand attack"
+    ],
+    "17": [
+      "poison sting"
+    ],
+    "27": [
+      "slash"
+    ],
+    "36": [
+      "swift"
+    ],
+    "47": [
+      "fury swipes"
+    ]
+  }
+}

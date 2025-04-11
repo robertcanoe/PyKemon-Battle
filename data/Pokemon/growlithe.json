@@ -1,0 +1,38 @@
+{
+  "name": "Growlithe",
+  "pokedex": "058",
+  "type1": "fire",
+  "type2": null,
+  "hp": 55,
+  "attack": 70,
+  "defense": 45,
+  "special attack": 70,
+  "special defense": 50,
+  "speed": 60,
+  "abilities": [
+    "intimidate",
+    "flash fire",
+    "justified"
+  ],
+  "level_up_moves": {
+    "1": [
+      "bite",
+      "roar"
+    ],
+    "18": [
+      "ember"
+    ],
+    "23": [
+      "leer"
+    ],
+    "30": [
+      "take down"
+    ],
+    "39": [
+      "agility"
+    ],
+    "50": [
+      "flamethrower"
+    ]
+  }
+}

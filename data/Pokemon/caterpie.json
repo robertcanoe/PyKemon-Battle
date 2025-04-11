@@ -1,0 +1,22 @@
+{
+  "name": "Caterpie",
+  "pokedex": "010",
+  "type1": "bug",
+  "type2": null,
+  "hp": 45,
+  "attack": 30,
+  "defense": 35,
+  "special attack": 20,
+  "special defense": 20,
+  "speed": 45,
+  "abilities": [
+    "shield dust",
+    "run away"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "string shot"
+    ]
+  }
+}

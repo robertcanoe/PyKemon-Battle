@@ -1,0 +1,35 @@
+{
+  "name": "Porygon",
+  "pokedex": "137",
+  "type1": "normal",
+  "type2": null,
+  "hp": 65,
+  "attack": 60,
+  "defense": 70,
+  "special attack": 85,
+  "special defense": 75,
+  "speed": 40,
+  "abilities": [
+    "trace",
+    "download",
+    "analytic"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "conversion"
+    ],
+    "23": [
+      "psybeam"
+    ],
+    "28": [
+      "recover"
+    ],
+    "35": [
+      "agility"
+    ],
+    "42": [
+      "tri attack"
+    ]
+  }
+}

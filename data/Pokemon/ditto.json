@@ -1,0 +1,21 @@
+{
+  "name": "Ditto",
+  "pokedex": "132",
+  "type1": "normal",
+  "type2": null,
+  "hp": 48,
+  "attack": 48,
+  "defense": 48,
+  "special attack": 48,
+  "special defense": 48,
+  "speed": 48,
+  "abilities": [
+    "limber",
+    "imposter"
+  ],
+  "level_up_moves": {
+    "1": [
+      "transform"
+    ]
+  }
+}

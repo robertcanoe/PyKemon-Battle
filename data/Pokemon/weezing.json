@@ -1,0 +1,39 @@
+{
+  "name": "Weezing",
+  "pokedex": "110",
+  "type1": "poison",
+  "type2": null,
+  "hp": 65,
+  "attack": 90,
+  "defense": 120,
+  "special attack": 85,
+  "special defense": 70,
+  "speed": 60,
+  "abilities": [
+    "levitate",
+    "neutralizing gas",
+    "stench"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "poison gas",
+      "sludge"
+    ],
+    "32": [
+      "sludge"
+    ],
+    "39": [
+      "smokescreen"
+    ],
+    "43": [
+      "haze"
+    ],
+    "49": [
+      "self-destruct"
+    ],
+    "53": [
+      "explosion"
+    ]
+  }
+}

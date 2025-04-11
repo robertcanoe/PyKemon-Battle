@@ -1,0 +1,44 @@
+{
+  "name": "Jolteon",
+  "pokedex": "135",
+  "type1": "electric",
+  "type2": null,
+  "hp": 65,
+  "attack": 65,
+  "defense": 60,
+  "special attack": 110,
+  "special defense": 95,
+  "speed": 130,
+  "abilities": [
+    "volt absorb",
+    "quick feet"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "tail whip",
+      "thunder shock"
+    ],
+    "8": [
+      "sand attack"
+    ],
+    "16": [
+      "thunder shock"
+    ],
+    "23": [
+      "quick attack"
+    ],
+    "30": [
+      "double kick"
+    ],
+    "36": [
+      "pin missile"
+    ],
+    "42": [
+      "thunder wave"
+    ],
+    "47": [
+      "thunder"
+    ]
+  }
+}

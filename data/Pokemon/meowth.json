@@ -1,0 +1,38 @@
+{
+  "name": "Meowth",
+  "pokedex": "052",
+  "type1": "normal",
+  "type2": null,
+  "hp": 40,
+  "attack": 45,
+  "defense": 35,
+  "special attack": 40,
+  "special defense": 40,
+  "speed": 90,
+  "abilities": [
+    "pickup",
+    "technician",
+    "unnerve"
+  ],
+  "level_up_moves": {
+    "1": [
+      "scratch",
+      "growl"
+    ],
+    "12": [
+      "bite"
+    ],
+    "17": [
+      "pay day"
+    ],
+    "24": [
+      "screech"
+    ],
+    "33": [
+      "fury swipes"
+    ],
+    "44": [
+      "slash"
+    ]
+  }
+}

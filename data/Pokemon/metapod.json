@@ -1,0 +1,23 @@
+{
+  "name": "Metapod",
+  "pokedex": "011",
+  "type1": "bug",
+  "type2": null,
+  "hp": 50,
+  "attack": 20,
+  "defense": 55,
+  "special attack": 25,
+  "special defense": 25,
+  "speed": 30,
+  "abilities": [
+    "shed skin"
+  ],
+  "level_up_moves": {
+    "1": [
+      "harden"
+    ],
+    "7": [
+      "harden"
+    ]
+  }
+}

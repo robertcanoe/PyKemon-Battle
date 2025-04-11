@@ -1,0 +1,42 @@
+{
+  "name": "Bellsprout",
+  "pokedex": "069",
+  "type1": "grass",
+  "type2": "poison",
+  "hp": 50,
+  "attack": 75,
+  "defense": 35,
+  "special attack": 70,
+  "special defense": 30,
+  "speed": 40,
+  "abilities": [
+    "chlorophyll",
+    "gluttony"
+  ],
+  "level_up_moves": {
+    "1": [
+      "vine whip"
+    ],
+    "13": [
+      "growth"
+    ],
+    "15": [
+      "wrap"
+    ],
+    "18": [
+      "poison powder"
+    ],
+    "21": [
+      "stun spore"
+    ],
+    "26": [
+      "acid"
+    ],
+    "33": [
+      "razor leaf"
+    ],
+    "42": [
+      "slam"
+    ]
+  }
+}

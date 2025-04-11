@@ -1,0 +1,41 @@
+{
+  "name": "Kadabra",
+  "pokedex": "064",
+  "type1": "psychic",
+  "type2": null,
+  "hp": 40,
+  "attack": 35,
+  "defense": 30,
+  "special attack": 120,
+  "special defense": 70,
+  "speed": 105,
+  "abilities": [
+    "synchronize",
+    "inner focus",
+    "magic guard"
+  ],
+  "level_up_moves": {
+    "1": [
+      "teleport",
+      "confusion"
+    ],
+    "16": [
+      "confusion"
+    ],
+    "20": [
+      "disable"
+    ],
+    "27": [
+      "psybeam"
+    ],
+    "31": [
+      "recover"
+    ],
+    "38": [
+      "psychic"
+    ],
+    "42": [
+      "reflect"
+    ]
+  }
+}

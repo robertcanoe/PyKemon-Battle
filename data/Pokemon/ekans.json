@@ -1,0 +1,38 @@
+{
+  "name": "Ekans",
+  "pokedex": "023",
+  "type1": "poison",
+  "type2": null,
+  "hp": 35,
+  "attack": 60,
+  "defense": 44,
+  "special attack": 40,
+  "special defense": 54,
+  "speed": 55,
+  "abilities": [
+    "intimidate",
+    "shed skin",
+    "unnerve"
+  ],
+  "level_up_moves": {
+    "1": [
+      "wrap",
+      "leer"
+    ],
+    "10": [
+      "poison sting"
+    ],
+    "17": [
+      "bite"
+    ],
+    "24": [
+      "glare"
+    ],
+    "31": [
+      "screech"
+    ],
+    "38": [
+      "acid"
+    ]
+  }
+}

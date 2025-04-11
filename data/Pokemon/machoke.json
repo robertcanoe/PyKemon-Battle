@@ -1,0 +1,38 @@
+{
+  "name": "Machoke",
+  "pokedex": "067",
+  "type1": "fighting",
+  "type2": null,
+  "hp": 80,
+  "attack": 100,
+  "defense": 70,
+  "special attack": 50,
+  "special defense": 60,
+  "speed": 45,
+  "abilities": [
+    "guts",
+    "no guard",
+    "steadfast"
+  ],
+  "level_up_moves": {
+    "1": [
+      "karate chop",
+      "low kick"
+    ],
+    "20": [
+      "low kick"
+    ],
+    "25": [
+      "leer"
+    ],
+    "36": [
+      "focus energy"
+    ],
+    "44": [
+      "seismic toss"
+    ],
+    "52": [
+      "submission"
+    ]
+  }
+}

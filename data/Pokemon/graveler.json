@@ -1,0 +1,41 @@
+{
+  "name": "Graveler",
+  "pokedex": "075",
+  "type1": "rock",
+  "type2": "ground",
+  "hp": 55,
+  "attack": 95,
+  "defense": 115,
+  "special attack": 45,
+  "special defense": 45,
+  "speed": 35,
+  "abilities": [
+    "rock head",
+    "sturdy",
+    "sand veil"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle",
+      "defense curl"
+    ],
+    "11": [
+      "defense curl"
+    ],
+    "16": [
+      "rock throw"
+    ],
+    "21": [
+      "self-destruct"
+    ],
+    "29": [
+      "harden"
+    ],
+    "36": [
+      "earthquake"
+    ],
+    "43": [
+      "explosion"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Rhydon",
+  "pokedex": "112",
+  "type1": "ground",
+  "type2": "rock",
+  "hp": 105,
+  "attack": 130,
+  "defense": 120,
+  "special attack": 45,
+  "special defense": 45,
+  "speed": 40,
+  "abilities": [
+    "lightning rod",
+    "rock head",
+    "reckless"
+  ],
+  "level_up_moves": {
+    "1": [
+      "horn attack",
+      "stomp"
+    ],
+    "30": [
+      "stomp"
+    ],
+    "35": [
+      "tail whip"
+    ],
+    "40": [
+      "fury attack"
+    ],
+    "48": [
+      "horn drill"
+    ],
+    "54": [
+      "leer"
+    ],
+    "62": [
+      "take down"
+    ]
+  }
+}

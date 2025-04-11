@@ -1,0 +1,37 @@
+{
+  "name": "Tauros",
+  "pokedex": "128",
+  "type1": "normal",
+  "type2": null,
+  "hp": 75,
+  "attack": 100,
+  "defense": 95,
+  "special attack": 40,
+  "special defense": 70,
+  "speed": 110,
+  "abilities": [
+    "intimidate",
+    "anger point",
+    "sheer force"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle"
+    ],
+    "21": [
+      "stomp"
+    ],
+    "28": [
+      "tail whip"
+    ],
+    "35": [
+      "leer"
+    ],
+    "44": [
+      "rage"
+    ],
+    "51": [
+      "take down"
+    ]
+  }
+}

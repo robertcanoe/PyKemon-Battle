@@ -1,0 +1,40 @@
+{
+  "name": "Geodude",
+  "pokedex": "074",
+  "type1": "rock",
+  "type2": "ground",
+  "hp": 40,
+  "attack": 80,
+  "defense": 100,
+  "special attack": 30,
+  "special defense": 30,
+  "speed": 20,
+  "abilities": [
+    "rock head",
+    "sturdy",
+    "sand veil"
+  ],
+  "level_up_moves": {
+    "1": [
+      "tackle"
+    ],
+    "11": [
+      "defense curl"
+    ],
+    "16": [
+      "rock throw"
+    ],
+    "21": [
+      "self-destruct"
+    ],
+    "26": [
+      "harden"
+    ],
+    "31": [
+      "earthquake"
+    ],
+    "36": [
+      "explosion"
+    ]
+  }
+}
